@@ -30,7 +30,7 @@ require Exporter;
 @ISA = qw( Exporter );
 
 $DRMAA::revision = '$Id: Schedule_DRMAAc_ext.pm,v 1.2 2004/04/27 20:50:30 harsch Exp $';
-$DRMAA::VERSION = '0.8';
+$DRMAA::VERSION = '0.81';
 
 @EXPORT_OK = @EXPORT;
 @EXPORT = ();

@@ -1,7 +1,9 @@
 LICENSE.txt
 DISCLAIMER.txt
+CHANGES.txt
 DRMAAc.pm
 MANIFEST
+Makefile.PL
 README
 Schedule_DRMAAc.i
 Schedule_DRMAAc.pod
